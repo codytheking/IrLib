@@ -22,7 +22,7 @@ See below for more information on the Roomba Virtual Wall project.
 
 ## Hardware Details
 
-The Roomba 600 comes with one virtual wall that keeps the Roomba from going into other rooms, so you can keep it confined to just one room. Unfortunately, you may have a room that has more than one doorway without a door and you are left to block one doorway with objects. An additional virtual wall costs around $45, so my fiancee's family asked me to make one on my own. I did some research and it turned out I could make one for around $30. Most of the parts are bought in bulk, so if you have spare electrical parts laying around you could probably make it for about $15 (cost of microcontroller, solderless breadboard or perfboard, and infrared led).
+The Roomba 600 comes with one virtual wall that keeps the Roomba from going into other rooms, so you can keep it confined to just one room. Unfortunately, you may have a room that has more than one doorway without a door and you are left to block one doorway with objects. An additional virtual wall costs around $45, so my wife's family asked me to make one on my own. I did some research and it turned out I could make one for around $30. Most of the parts are bought in bulk, so if you have spare electrical parts laying around you could probably make it for about $15 (cost of microcontroller, solderless breadboard or perfboard, and infrared led).
 
 #### Specifications
 
