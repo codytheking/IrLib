@@ -6,7 +6,7 @@ the ATmega328P. The code can be adapted to be used on other Atmel microcontrolle
 This code was taken from [Arduino-IRremote](https://github.com/z3t0/Arduino-IRremote) (originally done by Ken Shirriff). All I did 
 was take out the parts I didn't need for this project, whch slimmed down the code significantly.
 
-I used an Arduino UNO to program the microcontroller in the Arduino IDE. The folder irLib can be imported as
+I used an Arduino UNO to program the microcontroller in the Arduino IDE (more info [here](https://www.arduino.cc/en/Tutorial/ArduinoToBreadboard)). The folder irLib can be imported as
 a library in the Arduino IDE.
 
 See below for more information on the Roomba Virtual Wall project.
