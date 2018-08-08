@@ -34,8 +34,8 @@ Capacitors: 2 at 100 uF
 
 Resistors: 10 kOhm for microcontroller, 220 Ohm for LEDs.
 
-![alt text](https://i.imgur.com/rfO74aY.jpg "Arduino 1")
+![alt text](https://i.imgur.com/P9Zy8Zm.jpg "Arduino 1")
 
-![alt text](https://i.imgur.com/P9Zy8Zm.jpg "Arduino 2")
+![alt text](https://i.imgur.com/vmRaqAa.jpg "Arduino 2")
 
-![alt text](https://i.imgur.com/vmRaqAa.jpg "Arduino 3")
+![alt text](https://i.imgur.com/rfO74aY.jpg "Arduino 3")
